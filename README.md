@@ -4,8 +4,6 @@
 <h3 align="center">A passionate MERN stack developer who loves to contribute to open source and eager to join as intern</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/da/3d/e2/da3de2c5fde27cac56cacd3a643cdb2a.gif"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahillede940" alt="sahillede940" /></a> </p>
-
 - 🔭 I’m currently working on [Technology Mining Engineering Society, IIT Kharagpur](http://tmesiitkgp.in/)
 
 - 🌱 I’m currently learning **NextJS and mastering NodeJS**
