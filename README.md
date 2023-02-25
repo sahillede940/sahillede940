@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sahil Keshao Lede</h1>
 <h3 align="center">A passionate MERN stack developer who loves to contribute to open source and eager to join as intern</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/da/3d/e2/da3de2c5fde27cac56cacd3a643cdb2a.gif"/>
+<img align="right" alt="Coding" width="400" src="https://pic.funnygifsbox.com/uploads/2020/07/funnygifsbox.com-2020-07-26-15-01-27-51.gif"/>
 
 - 🔭 I’m currently working on [Technology Mining Engineering Society, IIT Kharagpur](http://tmesiitkgp.in/)
 
